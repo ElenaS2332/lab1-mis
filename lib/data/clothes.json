@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Green Coat",
+    "image": "lib/assets/green_coat.png",
+    "description": "The most beautiful green coat",
+    "price": 2899
+  },
+  {
+    "id": 2,
+    "name": "Yellow Coat",
+    "image": "lib/assets/yellow_coat.png",
+    "description": "The most beautiful yellow coat",
+    "price": 2299
+  },
+  {
+    "id": 3,
+    "name": "Green Shirt",
+    "image": "lib/assets/green_shirt.png",
+    "description": "Comfortable green shirt",
+    "price": 1299
+  },
+  {
+    "id": 4,
+    "name": "Blue Pants",
+    "image": "lib/assets/blue_pants.png",
+    "description": "Winter blue pants",
+    "price": 2999
+  },
+  {
+    "id": 5,
+    "name": "Red Leather Jacket",
+    "image": "lib/assets/red_leather_jacket.png",
+    "description": "Cool red leather jacket for any occassion",
+    "price": 2999
+  },
+  {
+    "id": 6,
+    "name": "Dark Red Winter Coat",
+    "image": "lib/assets/dark_red_winter_coat.png",
+    "description": "Warm dark red winter coat",
+    "price": 3799
+  },
+  {
+    "id": 7,
+    "name": "Brown Sweatshirt",
+    "image": "lib/assets/brown_sweatshirt.png",
+    "description": "Comfy brown sweatshirt",
+    "price": 1299
+  },
+  {
+    "id": 8,
+    "name": "Santa Socks",
+    "image": "lib/assets/santa_socks.png",
+    "description": "Cozy Santa socks",
+    "price": 399
+  }
+]
